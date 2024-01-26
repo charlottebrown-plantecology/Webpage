@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=B0-dMKkAAAAJ&hl=en/){style="font-family: HelveticaNeue-Light"}
+[Google Scholar](https://scholar.google.com/citations?user=rOKTAQkAAAAJ&hl=en){style="font-family: HelveticaNeue-Light"}
 
 #### In Review
 
